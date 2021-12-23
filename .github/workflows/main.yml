@@ -19,4 +19,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: mohamedsaeed123/py_project:latest
+          tags: mohamedsaeed123/py_project
